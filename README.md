@@ -1,2 +1,2 @@
-# EgorLox
-EgorLox
+# Egor
+Egor
